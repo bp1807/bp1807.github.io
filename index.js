@@ -1,1 +1,1 @@
-console.log("adasd");
+alert("asdasd");
